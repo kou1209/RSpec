@@ -7,7 +7,7 @@ organization] on GitHub. Thanks!
 ---
 
 Sample Rails 5.1 application for *[Everyday Rails Testing with RSpec]: A
-Practical Approach to Test-driven Development* by Aaron Sumner. This
+Practical Approach to Test-driven Development* by Aaron Sumner. This yayyay
 repository demonstrates incremental testing of an existing application,
 starting with an untested codebase and working through model, controller,
 feature, and request specs.
